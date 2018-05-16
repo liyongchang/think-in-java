@@ -1,3 +1,5 @@
+
+
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
@@ -39,5 +41,9 @@ public class Cache {
 
     private String createRandom() {
         return "I'm a random string or resource... Be creative ;)";
+    }
+
+    public static void main(String[] args) {
+        System.out.println("hello world");
     }
 }
