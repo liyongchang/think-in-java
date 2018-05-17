@@ -1,3 +1,5 @@
+package Cache;
+
 /**
  * Created by liyongchang on 2018/4/21.
  */
